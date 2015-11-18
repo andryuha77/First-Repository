@@ -9,5 +9,8 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
+        <Button x:Name="Git hub booton" Margin="127,53,0,555"> Connect = .</Button>
+        <TextBlock x:Name=""
+
     </Grid>
 </Page>
